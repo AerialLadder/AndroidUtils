@@ -1,7 +1,6 @@
 # AndroidUtils
 android常用工具，所有提供的API均经过本人亲自测试后发布。
 
-
 #### 1.CrashHandler
 > 功能：在app连续Crash的时候能够清除app数据或者进行自定义的补救措施，恢复app的正常运行。  
 
