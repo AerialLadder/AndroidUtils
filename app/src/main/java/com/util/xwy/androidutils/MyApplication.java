@@ -2,8 +2,8 @@ package com.util.xwy.androidutils;
 
 import android.app.Application;
 
-import com.wizz.libutil.CrashHandler;
-import com.wizz.libutil.CrashHandlerConfig;
+import com.util.crash.CrashHandler;
+import com.util.crash.CrashHandlerConfig;
 
 /**
  * =====================================================================================
@@ -19,9 +19,17 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        CrashHandler.getInstance(new CrashHandlerConfig.Builder()
-                .setTargetTimes(1).setCrashProcess(null)
-                .build()).init(this);
-    }
+        CrashHandler.getInstance().init(this);
 
+        /*CrashHandler.getInstance(new CrashHandlerConfig.Builder()
+                .setTargetTimes(1)//预定的crash次数进行处理
+                .setCrashProcess(new CrashHandler.CrashProcess() {
+                    @Override
+                    public boolean process() {
+                        //达到预定的crash次数触发的操作
+                        return true;
+                    }
+                })
+                .build()).init(this);*/
+    }
 }

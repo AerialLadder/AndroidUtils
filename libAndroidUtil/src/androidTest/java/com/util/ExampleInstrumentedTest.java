@@ -1,4 +1,4 @@
-package com.wizz.libutil;
+package com.util;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.wizz.libutil.test", appContext.getPackageName());
+        assertEquals("com.libutil.test", appContext.getPackageName());
     }
 }

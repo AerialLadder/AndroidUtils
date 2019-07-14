@@ -1,4 +1,4 @@
-package com.wizz.libutil;
+package com.util.file;
 
 import java.io.File;
 

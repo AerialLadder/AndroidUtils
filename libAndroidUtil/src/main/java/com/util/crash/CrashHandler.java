@@ -1,4 +1,4 @@
-package com.wizz.libutil;
+package com.util.crash;
 
 import android.app.Activity;
 import android.app.Application;
@@ -7,6 +7,8 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;
+
+import com.util.file.FileUtil;
 
 import java.lang.ref.WeakReference;
 

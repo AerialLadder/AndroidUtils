@@ -1,6 +1,4 @@
-package com.wizz.libutil;
-
-import android.os.Build;
+package com.util.crash;
 
 /**
  * =====================================================================================
