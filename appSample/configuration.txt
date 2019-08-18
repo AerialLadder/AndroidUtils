@@ -1,0 +1,525 @@
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/matrix-io-canary-0.6.0.aar/1eed344acefb6adb7b2830ae7a95438e/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/matrix-android-commons-0.6.0.aar/12af44ccc4ef2a255b0bafa853fcb88e/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/matrix-trace-canary-0.6.0.aar/15baba9636a309e0a7a62ce0190e047d/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/matrix-resource-canary-android-0.6.0.aar/7617ad7b79e16cb946d2c712e4254691/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/matrix-thread-canary-0.4.10.3.aar/332159e6a711169be79631acfbd1956e/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/matrix-android-lib-0.6.0.aar/b40b8d9f78fa38df8368814b5b2ed964/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/modules-2/files-2.1/com.tencent.matrix/matrix-resource-canary-common/0.6.0/2f8b24e374cc1affd1bc75fc63d9e6de15d72b34/matrix-resource-canary-common-0.6.0.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/3f619c40db88b8b631fcc2c960ba301a/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/083f7176289a14ddadd325268a74e278/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/bea4e515b72c1bdb3e93420880e0d36e/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b54f29bc0c8829560a889434ce1fa6a0/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2950aa995aa4d2f7f4321a4543748c2f/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/57f9e77d011c6e13f523a7b201a1ba4f/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a3d1fa48d0999f79c2d8d891470b9990/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9f0d9f8c5111e216236094b1b950b6f5/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ea6d38435141c1b000491d0a01094ea0/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f5f9770329bcb6922ab59b40b0c5887c/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/bddbd9f8dad835a1688f5747f9b041c7/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/94bcd78e50fa00ddd5eb284412178ae3/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b548bcbe84cfd6bb6ae2729233eaba43/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f1afe8041277427c336d812476cabcf7/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/41c7811be783053f5e182ab085ebb8c9/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8883cd8b5319e8c6048be260f067b36b/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e3993bce536cc0aa822ed7ca2e3edc2e/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ff3c52976cedbb6006dc5e38f8317861/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8751c1e045bbfbc4559835b3a17a5aa4/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8db7cf9921ee5c0a7f91fd32eb82af93/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c834a7d68d3c74d7093f0ee6cd52f199/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c27f576dfda26bce2582c860465c4e11/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d20cb74abe60e9d896dafce0b94b2fdb/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e4b30b9a5ac94692f1a5f0c574ef92d9/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9143ff23b5020a53f4cc6dfd3bc07749/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b8966e18ddb27554e237ddce46e8f732/jars/classes.jar(**.class)
+-injars /Users/wizz/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar(**.class)
+-injars /Users/wizz/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/tinker-ziputils/1.9.2/aa54e8d18beac60454b8d299fd372888b8815e12/tinker-ziputils-1.9.2.jar(**.class)
+-injars /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes(**.class)
+-injars /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/transforms/mergeJavaRes/release/0.jar(!**.class)
+-outjars /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/transforms/proguard/release/0.jar
+
+-libraryjars /Users/Shared/DevSoft/Android/sdk/platforms/android-28/android.jar
+-libraryjars /Users/Shared/DevSoft/Android/sdk/build-tools/28.0.3/core-lambda-stubs.jar
+-libraryjars /Users/Shared/DevSoft/Android/sdk/platforms/android-28/optional/org.apache.http.legacy.jar
+-libraryjars /Users/Shared/DevSoft/Android/sdk/platforms/android-28/optional/android.test.mock.jar
+-libraryjars /Users/Shared/DevSoft/Android/sdk/platforms/android-28/optional/android.test.base.jar
+-libraryjars /Users/Shared/DevSoft/Android/sdk/platforms/android-28/optional/android.test.runner.jar
+
+-forceprocessing
+-printusage /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/outputs/mapping/release/usage.txt
+-dontoptimize
+-printmapping /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/outputs/mapping/release/mapping.txt
+-dontusemixedcaseclassnames
+-keepattributes *Annotation*,Signature,InnerClasses,EnclosingMethod,SourceFile,LineNumberTable,*Annotation*,*Annotation*
+-verbose
+-dontnote com.android.vending.licensing.ILicensingService,com.google.vending.licensing.ILicensingService,com.google.android.vending.licensing.ILicensingService,android.support.**,androidx.**,org.apache.http.**,android.net.http.**,java.lang.invoke.**
+-dontwarn android.support.**,androidx.**,android.util.FloatMath
+-printconfiguration /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/configuration.txt
+-printseeds /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/outputs/mapping/release/seeds.txt
+
+
+
+-keep public class com.google.vending.licensing.ILicensingService
+
+-keep public class com.android.vending.licensing.ILicensingService
+
+-keep public class com.google.android.vending.licensing.ILicensingService
+
+# For native methods, see http://proguard.sourceforge.net/manual/examples.html#native
+-keepclasseswithmembers,allowshrinking class * {
+    native <methods>;
+}
+
+# Keep setters in Views so that animations can still work.
+-keepclassmembers public class * extends android.view.View {
+    void set*(***);
+    *** get*();
+}
+
+# We want to keep methods in Activity that could be used in the XML attribute onClick.
+-keepclassmembers class * extends android.app.Activity {
+    public void *(android.view.View);
+}
+
+# For enumeration classes, see http://proguard.sourceforge.net/manual/examples.html#enumerations
+-keepclassmembers enum  * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keepclassmembers class * extends android.os.Parcelable {
+    public static final ** CREATOR;
+}
+
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}
+
+# Preserve annotated Javascript interface methods.
+-keepclassmembers class * {
+    @android.webkit.JavascriptInterface
+    <methods>;
+}
+
+# Understand the @Keep support annotation.
+-keep class android.support.annotation.Keep
+
+-keep class androidx.annotation.Keep
+
+-keep @android.support.annotation.Keep class * {
+    <fields>;
+    <methods>;
+}
+
+-keep @androidx.annotation.Keep class * {
+    <fields>;
+    <methods>;
+}
+
+-keepclasseswithmembers class * {
+    @android.support.annotation.Keep
+    <methods>;
+}
+
+-keepclasseswithmembers class * {
+    @androidx.annotation.Keep
+    <methods>;
+}
+
+-keepclasseswithmembers class * {
+    @android.support.annotation.Keep
+    <fields>;
+}
+
+-keepclasseswithmembers class * {
+    @androidx.annotation.Keep
+    <fields>;
+}
+
+-keepclasseswithmembers class * {
+    @android.support.annotation.Keep
+    <init>(...);
+}
+
+-keepclasseswithmembers class * {
+    @androidx.annotation.Keep
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:52
+-keep class com.tencent.matrix.resource.CanaryResultService {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:46
+-keep class com.tencent.matrix.resource.CanaryWorkerService {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:26
+-keep class sample.tencent.matrix.MainActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:18
+-keep class sample.tencent.matrix.MatrixApplication {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:31
+-keep class sample.tencent.matrix.SplashActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:38
+-keep class sample.tencent.matrix.io.TestIOActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:28
+-keep class sample.tencent.matrix.issue.IssuesListActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:39
+-keep class sample.tencent.matrix.resource.TestLeakActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:44
+-keep class sample.tencent.matrix.sqlitelint.TestSQLiteLintActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:42
+-keep class sample.tencent.matrix.trace.TestEnterActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:43
+-keep class sample.tencent.matrix.trace.TestFpsActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:41
+-keep class sample.tencent.matrix.trace.TestTraceFragmentActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:40
+-keep class sample.tencent.matrix.trace.TestTraceMainActivity {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_alert_dialog_material.xml:41
+-keep class android.support.v4.widget.NestedScrollView {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_select_dialog_material.xml:23
+-keep class android.support.v7.app.AlertController$RecycleListView {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_cascading_menu_item_layout.xml:20
+-keep class android.support.v7.view.menu.ListMenuItemView {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_action_mode_bar.xml:19
+-keep class android.support.v7.widget.ActionBarContextView {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_alert_dialog_material.xml:18
+-keep class android.support.v7.widget.AlertDialogLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class android.support.v7.widget.ButtonBarLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class android.support.v7.widget.DialogTitle {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_simple.xml:17
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_dialog_title_material.xml:22
+-keep class android.support.v7.widget.FitWindowsLinearLayout {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/activity_issue_list.xml:7
+-keep class android.support.v7.widget.RecyclerView {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_screen_simple.xml:25
+-keep class android.support.v7.widget.ViewStubCompat {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_alert_dialog_title_material.xml:56
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2b707d2b0998e8f24422b7c92310a236/res/layout/abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space {
+    <init>(...);
+}
+
+# Referenced at /Users/wizz/.gradle/caches/transforms-1/files-1.1/matrix-trace-canary-0.6.0.aar/15baba9636a309e0a7a62ce0190e047d/res/layout/float_frame_view.xml:67
+-keep class com.tencent.matrix.trace.view.FloatFrameView$LineChartView {
+    <init>(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/test_sqlite_lint.xml:13
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/test_io.xml:8
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/test_battery.xml:7
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/device.xml:7
+-keepclassmembers class * {
+    *** onClick(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/test_trace.xml:48
+-keepclassmembers class * {
+    *** stopAppMethodBeat(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/test_trace.xml:30
+-keepclassmembers class * {
+    *** testANR(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/test_trace.xml:21
+-keepclassmembers class * {
+    *** testEnter(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/test_trace.xml:12
+-keepclassmembers class * {
+    *** testFps(...);
+}
+
+# Referenced at /Users/Shared/AndroidStudioProjects/Learn/matrix/samples/sample-android/app/src/main/res/layout/test_trace.xml:39
+-keepclassmembers class * {
+    *** testJankiess(...);
+}
+
+-keep class com.tencent.matrix.iocanary.core.** {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.tencent.h.interfaces.NativeHook {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.tencent.matrix.trace.core.AppMethodBeat {
+    <fields>;
+    <methods>;
+}
+
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in /Users/zhangshaowen/Library/Android/sdk/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the proguardFiles
+# directive in build.gradle.
+# 
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+# Add any project specific keep options here:
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+# -keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+# }
+# Uncomment this to preserve the line number information for
+# debugging stack traces.
+# -keepattributes SourceFile,LineNumberTable
+# If you keep the line number information, uncomment this to
+# hide the original source file name.
+# -renamesourcefileattribute SourceFile
+-keep class com.tencent.matrix.resource.analyzer.model.DestroyedActivityInfo {
+    <fields>;
+    <methods>;
+}
+
+# Copyright (C) 2018 The Android Open Source Project
+# 
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+#      http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# Ensure that reflectively-loaded inflater is not obfuscated. This can be
+# removed when we stop supporting AAPT1 builds.
+-keep,allowshrinking class android.support.v7.app.AppCompatViewInflater
+
+# aapt is not able to read app::actionViewClass and app:actionProviderClass to produce proguard
+# keep rules. Add a commonly used SearchView to the keep list until b/109831488 is resolved.
+-keep class android.support.v7.widget.SearchView {
+    <init>(...);
+}
+
+# Copyright (C) 2015 The Android Open Source Project
+# 
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+#      http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# When layoutManager xml attribute is used, RecyclerView inflates
+# LayoutManagers' constructors using reflection.
+-keep public class * extends android.support.v7.widget.RecyclerView$LayoutManager {
+    public <init>(android.content.Context,android.util.AttributeSet,int,int);
+    public <init>();
+}
+
+# Copyright (C) 2016 The Android Open Source Project
+# 
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+#      http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# keep setters in VectorDrawables so that animations can still work.
+-keepclassmembers class android.support.graphics.drawable.VectorDrawableCompat$* {
+    void set*(***);
+    *** get*();
+}
+
+# Copyright (C) 2016 The Android Open Source Project
+# 
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+#      http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# CoordinatorLayout resolves the behaviors of its child components with reflection.
+-keep public class * extends android.support.design.widget.CoordinatorLayout$Behavior {
+    public <init>(android.content.Context,android.util.AttributeSet);
+    public <init>();
+}
+
+# aapt2 is not (yet) keeping FQCNs defined in the appComponentFactory <application> attribute
+-keep class android.support.v4.app.CoreComponentFactory
+
+-keep public class * extends androidx.versionedparcelable.VersionedParcelable
+
+-keep public class android.support.**Parcelizer {
+    <fields>;
+    <methods>;
+}
+
+-keep public class androidx.**Parcelizer {
+    <fields>;
+    <methods>;
+}
+
+-keep public class androidx.versionedparcelable.ParcelImpl
+
+-keepclassmembers enum  android.arch.lifecycle.Lifecycle$Event {
+    <fields>;
+}
+
+-keep class * extends android.arch.lifecycle.LifecycleObserver
+
+-keep class * extends android.arch.lifecycle.GeneratedAdapter {
+    <init>(...);
+}
+
+-keepclassmembers class ** {
+    @android.arch.lifecycle.OnLifecycleEvent
+    <fields>;
+    @android.arch.lifecycle.OnLifecycleEvent
+    <methods>;
+}
+
+-keep class * extends android.arch.lifecycle.ViewModel {
+    <init>();
+}

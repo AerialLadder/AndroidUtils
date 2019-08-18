@@ -1,1 +1,1 @@
-include ':app', ':libAndroidUtil'
+include ':app', ':libAndroidUtil', ':matrix-android-lib', ':matrix-trace-canary', ':appSample'
