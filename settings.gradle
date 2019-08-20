@@ -1,1 +1,2 @@
-include ':app', ':libAndroidUtil', ':matrix-android-lib', ':matrix-trace-canary', ':appSample'
+include ':app', ':libAndroidUtil', ':matrix-android-lib', ':matrix-trace-canary', ':appSample',
+        ':matrix-android-commons', ':matrix-commons', ':matrix-thread-canary'

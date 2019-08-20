@@ -20,6 +20,7 @@ import java.util.Map;
 import java.util.Set;
 
 
+@SuppressWarnings("ALL")
 public enum AppActiveMatrixDelegate {
 
     INSTANCE;

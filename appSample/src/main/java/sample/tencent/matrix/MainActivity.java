@@ -23,6 +23,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import com.tencent.matrix.trace.core.LooperMonitor;
+
 import sample.tencent.matrix.io.TestIOActivity;
 import sample.tencent.matrix.issue.IssuesMap;
 import sample.tencent.matrix.resource.TestLeakActivity;
