@@ -122,7 +122,7 @@ matrix {
         variant = "debug"
         needSign true
         shrinkArsc true
-        apksignerPath = "${android.getSdkDirectory().getAbsolutePath()}/build-tools/${android.getBuildToolsVersion()}/apksigner"
+        apksignerPath = "${android.getSdkDirectory().getAbsolutePath()}/build-tools/${android.getBuildToolsVersion()}/apksigner.bat"
         unusedResources = project.ext.unusedResourcesSet
         ignoreResources = ["R.id.*", "R.bool.*"]
     }

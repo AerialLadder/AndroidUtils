@@ -39,7 +39,9 @@ public enum AppActiveMatrixDelegate {
             return;
         }
         this.isInited = true;
+        //监听内存不足的情况
         application.registerComponentCallbacks(controller);
+        //监听activity生命周期
         application.registerActivityLifecycleCallbacks(controller);
     }
 
